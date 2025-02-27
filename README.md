@@ -68,8 +68,8 @@ As I approach the completion of my master’s degree, I aspire to join a forward
 
 ## 💼 Experience
 
-### Software Engineer Intern at Genie AI | _New York City, NY (Dec 2024 - Present)_
-![Genie AI](https://img.shields.io/badge/Genie_AI-000000?style=for-the-badge&logo=genie-ai&logoColor=white)
+![Genie AI](https://img.shields.io/badge/Genie_AI-000000?style=for-the-badge&logo=genie-ai&logoColor=white) ### Software Engineer Intern
+_New York City, NY (Dec 2024 - Present)_
 
 - Engineered scalable microservices using Node.js and NestJS, containerized with Docker and deployed on AWS with Kubernetes, improving system availability and reducing deployment errors by 30%.
 - Integrated Prometheus and Grafana for real-time monitoring of system performance, using AWS CloudWatch for proactive issue detection, which led to a 25% improvement in system performance.
@@ -90,40 +90,6 @@ As I approach the completion of my master’s degree, I aspire to join a forward
 - Migrated monolithic services to microservices architecture, enabling modular deployment and horizontal scalability, reducing system downtime by 60% during high-traffic events.
 - Integrated backend systems with external eCommerce platforms, including Sam’s Club, synchronizing inventory, pricing, and promotional data, increasing cross-platform sales efficiency by 20%.
 - Implemented a Java-based TDD (Test-Driven Development) approach using JUnit and Mockito, achieving 90% code coverage; monitored performance using Prometheus and Grafana, resolving critical issues within an average of 30 minutes.
-
----
-
-## 🏆 Achievements
-
-- **First Prize in EECS Industry Showcase ‘24** for the capstone project ‘Haptic Feedback for VR based Stroke Rehabilitation.’
-- **Finalist in AT&T PI 17 Innovation Jam** for the ML pitch ‘Revolutionizing Shopping: Personalized Top 5 Picks in the US.’
-
----
-
-## 📚 Publications
-
-- **"Building an Efficient Product Recommender System"** - ICCCE (Apr 29, 2023)
-- ![🔗](https://drive.google.com/file/d/1PdWuIQ6tsXVGgmsrck_AmciQyaJka8n1/view?pli=1)
-- The paper "Building an Efficient Product Recommender System" discusses personalized recommendation models for e-commerce platforms, focusing on collaborative filtering and popularity-based methods. It highlights the significance of tailored recommendations for enhancing user experience and business profitability. The study demonstrates successful implementation and evaluation of these models using Amazon's electronics data.
-
----
-
-## 📜 Certifications
-
-![Certifications](https://img.shields.io/badge/Certifications-4CAF50?style=for-the-badge&logo=certification&logoColor=white)
-
-- **HTML Essential Training** - LinkedIn (Feb 2023)
-- **Learning Functional Programming with JavaScript ES6+** - LinkedIn (Feb 2023)
-- **Programming Foundations: Web Security (2019)** - LinkedIn (Feb 2023)
-- **Unix Essential Training** - LinkedIn (Feb 2023)
-- **Cognizant Artificial Intelligence Virtual Experience** - Forage (Nov 2022)
-- **Networking Essentials** - Cisco Networking Academy (Aug 2022)
-- **CCNA: Introduction to Networks** - Cisco Networking Academy (Jul 2022)
-- **Introduction to Machine Learning** - NPTEL (Oct 2021)
-- **Programming, Data Structures And Algorithms Using Python** - NPTEL (Dec 2020)
-- **Python Data Structures** - Coursera (Aug 2020)
-- **Programming for Everybody (Getting Started with Python)** - Coursera (Jul 2020)
-- **An Introduction to Programming Through C++** - NPTEL (Jun 2020)
 
 ---
 
@@ -177,6 +143,40 @@ As I approach the completion of my master’s degree, I aspire to join a forward
 - Engineered the system to display pulse data in BPM, trace real-time pulse graphs, and provide user alerts when abnormalities were detected, enhancing user awareness with age-specific BPM monitoring and seamless interaction via GUI prompts.
 
 **GitHub**: [Pulse Monitoring System](https://github.com/HasiniReddy57/Pulse-Monitoring-System)
+
+---
+
+## 🏆 Achievements
+
+- **First Prize in EECS Industry Showcase ‘24** for the capstone project ‘Haptic Feedback for VR based Stroke Rehabilitation.’
+- **Finalist in AT&T PI 17 Innovation Jam** for the ML pitch ‘Revolutionizing Shopping: Personalized Top 5 Picks in the US.’
+
+---
+
+## 📚 Publications
+
+**"Building an Efficient Product Recommender System"** - ICCCE (Apr 29, 2023)
+🔗[Reference](https://drive.google.com/file/d/1PdWuIQ6tsXVGgmsrck_AmciQyaJka8n1/view?pli=1)
+The paper "Building an Efficient Product Recommender System" discusses personalized recommendation models for e-commerce platforms, focusing on collaborative filtering and popularity-based methods. It highlights the significance of tailored recommendations for enhancing user experience and business profitability. The study demonstrates successful implementation and evaluation of these models using Amazon's electronics data.
+
+---
+
+## 📜 Certifications
+
+![Certifications](https://img.shields.io/badge/Certifications-4CAF50?style=for-the-badge&logo=certification&logoColor=white)
+
+- **HTML Essential Training** - LinkedIn (Feb 2023)
+- **Learning Functional Programming with JavaScript ES6+** - LinkedIn (Feb 2023)
+- **Programming Foundations: Web Security (2019)** - LinkedIn (Feb 2023)
+- **Unix Essential Training** - LinkedIn (Feb 2023)
+- **Cognizant Artificial Intelligence Virtual Experience** - Forage (Nov 2022)
+- **Networking Essentials** - Cisco Networking Academy (Aug 2022)
+- **CCNA: Introduction to Networks** - Cisco Networking Academy (Jul 2022)
+- **Introduction to Machine Learning** - NPTEL (Oct 2021)
+- **Programming, Data Structures And Algorithms Using Python** - NPTEL (Dec 2020)
+- **Python Data Structures** - Coursera (Aug 2020)
+- **Programming for Everybody (Getting Started with Python)** - Coursera (Jul 2020)
+- **An Introduction to Programming Through C++** - NPTEL (Jun 2020)
 
 ---
 
