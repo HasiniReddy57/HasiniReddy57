@@ -94,6 +94,14 @@
 
 ---
 
+## 🌟 Projects
+
+### [VR Haptix Environment](https://github.com/HasiniReddy57/VR-Haptix-Environment)
+- 🎮 **Capstone Project** for **Haptic Feedback for Stroke Rehabilitation in Virtual Environment**.
+- 🕶️ Unity-based project delivering immersive VR experiences with integrated haptic feedback.
+- 🔧 Detailed setup: clone the repo, open in Unity, verify project settings, install dependencies, and build for VR platforms (supports Oculus Quest 2 or similar).
+- 📚 Comprehensive documentation and seamless integration with Oculus/SteamVR SDKs ensure smooth deployment and testing.
+
 ### [Centralized Collaboration Platform for Teams](https://github.com/HasiniReddy57/Centralized-Collaboration-Platform-for-Teams)
 - 🧩 Developed activity tracking, issue management, and discussions using **Next.js** and CSS modules.
 - 🔒 Built secure REST APIs for user authentication and team management, optimizing API performance for faster responses.
