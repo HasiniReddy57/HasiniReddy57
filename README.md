@@ -170,11 +170,11 @@
 
 ## 🤝 Volunteering
 
-### UCI Sustainability Resource Center
+### ![UCI Sustainability Resource Center](https://img.shields.io/badge/UCI_Sustainability_Resource_Center-000000?style=for-the-badge&logo=uci&logoColor=white)
 **Student Volunteer** (Sep 2023 – Dec 2023)  
 - Contributed to eco-friendly initiatives, event organization, and campus outreach programs promoting sustainability.
 
-### Resilient Cyber-Physical Systems Lab
+### ![Resilient Cyber-Physical Systems Lab](https://img.shields.io/badge/Resilient_Cyber_Physical_Systems_Lab-000000?style=for-the-badge&logo=uci&logoColor=white) 
 **Laboratory Assistant** (Feb 2025 – Present)  
 - Assisted in research and experimental setups for cyber-physical systems, focusing on resilience and security.
 
