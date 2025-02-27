@@ -68,25 +68,22 @@ As I approach the completion of my master’s degree, I aspire to join a forward
 
 ## 💼 Experience
 
-### Software Engineer Intern at Genie AI
+### Software Engineer Intern at Genie AI | _New York City, NY (Dec 2024 - Present)_
 ![Genie AI](https://img.shields.io/badge/Genie_AI-000000?style=for-the-badge&logo=genie-ai&logoColor=white)
-_New York City, NY (Dec 2024 - Present)_
 
 - Engineered scalable microservices using Node.js and NestJS, containerized with Docker and deployed on AWS with Kubernetes, improving system availability and reducing deployment errors by 30%.
 - Integrated Prometheus and Grafana for real-time monitoring of system performance, using AWS CloudWatch for proactive issue detection, which led to a 25% improvement in system performance.
 - Automated backend deployment and scaling using GitLab CI/CD pipelines and Kubernetes, ensuring rapid and reliable deployments with zero downtime, improving deployment speed by 40% while enhancing system fault tolerance.
 
-### Software Engineer R&D Intern at UCI Donald Bren School of Information and Computer Sciences
+### Software Engineer R&D Intern at UCI | _Irvine, CA (Jun - Sep 2024)_
 ![UCI](https://img.shields.io/badge/UCI-000000?style=for-the-badge&logo=uci&logoColor=white)
-_Irvine, CA (Jun - Sep 2024)_
 
 - Engineered a responsive real-time occupancy tracking system using React, Next.js, Node.js, and WebSocket APIs, enabling efficient sensor data visualization across 5 library floors, reducing student congestion by 30%.
 - Enhanced system interactivity by developing dynamic components for floor-specific dashboards and visual data panels, ensuring seamless updates with state management techniques using React hooks and Context API.
 - Integrated OAuth 2.0 authentication and TLS/SSL protocols for secure user access, while implementing predictive models in Python with 85% accuracy for future occupancy forecasting, contributing to proactive resource management.
 
-### Full-Stack Software Engineer at AT&T Inc.
+### Full-Stack Software Engineer at AT&T | _India (Jan - Sep 2023)_
 ![AT&T](https://img.shields.io/badge/AT&T-000000?style=for-the-badge&logo=att&logoColor=white)
-_India (Jan - Sep 2023)_
 
 - Developed and optimized RESTful APIs using Java (Spring Boot), enhancing API response times by 35%, supporting real-time product updates for over 1M+ SKUs on the product details page.
 - Designed and managed a hybrid database architecture with PostgreSQL and MongoDB, reducing data retrieval latency by 40% and efficiently handling structured and unstructured product data across a 10TB dataset.
@@ -106,6 +103,8 @@ _India (Jan - Sep 2023)_
 ## 📚 Publications
 
 - **"Building an Efficient Product Recommender System"** - ICCCE (Apr 29, 2023)
+- ![🔗](https://drive.google.com/file/d/1PdWuIQ6tsXVGgmsrck_AmciQyaJka8n1/view?pli=1)
+- The paper "Building an Efficient Product Recommender System" discusses personalized recommendation models for e-commerce platforms, focusing on collaborative filtering and popularity-based methods. It highlights the significance of tailored recommendations for enhancing user experience and business profitability. The study demonstrates successful implementation and evaluation of these models using Amazon's electronics data.
 
 ---
 
