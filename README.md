@@ -184,11 +184,11 @@
 </p>
 
 <!-- (Optional) GitHub Stats Card - Replace "HasiniReddy57" with your GitHub username -->
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HasiniReddy57&show_icons=true&theme=radical" alt="Hasini's GitHub stats" />
 </p>
-
+-->
 <p align="center">
   <strong>Thanks for stopping by! ✨</strong>
 </p>
