@@ -71,7 +71,7 @@
 ## 💼 Experience
 
 ### Genie AI
-**Software Engineer Intern** (Dec 2024 – Present)  
+**Software Engineer** (Dec 2024 – Present)  
 - Engineered scalable microservices using **Node.js** and **NestJS**, deployed on **AWS** with **Kubernetes**.  
 - Integrated **Prometheus** and **Grafana** for real-time monitoring, boosting system performance by 25%.  
 - Automated backend deployments using **GitLab CI/CD** pipelines, achieving zero-downtime releases.
@@ -87,7 +87,7 @@
 ---
 
 ### AT&T
-**Full-Stack Software Engineer** (Jan – Sep 2023)  
+**Software Engineer** (Jan – Sep 2023)  
 - Developed/optimized **RESTful APIs** using **Java (Spring Boot)**, enhancing response times by 35%.  
 - Migrated monolithic services to **microservices** architecture, reducing downtime by 60%.  
 - Implemented **TDD** using **JUnit** and **Mockito**, achieving 90% code coverage.
