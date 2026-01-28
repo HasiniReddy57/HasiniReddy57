@@ -10,8 +10,7 @@
 
 <p align="center">
   <em>
-    Software Engineer with a Master’s in Computer Science & Engineering from UC Irvine <br/>
-    <strong>Passionate about building innovative solutions and exploring new technologies.</strong>
+    Software Engineer at Amazon who cares about reliability, scale, and clean design <br/>
   </em>
 </p>
 
@@ -19,12 +18,11 @@
 
 ## 🚀 About Me
 
-- 🎓 **Master’s in Computer Science & Engineering** from UC Irvine (GPA: 4.0/4.0)
-- 🎓 **Bachelor’s in Computer Science & Engineering** from Osmania University (GPA: 4.0/4.0)
-- 💡 Experienced in full-stack development, machine learning, and cloud computing.  
-- 🌱 Previously worked on microservices, cloud-native architectures, and real-time analytics projects.
-- 🤝 Always open to exciting opportunities where I can collaborate, learn, and innovate.
-- 📫 **[Connect on LinkedIn](https://www.linkedin.com/in/hasinireddy)** or **[send an email](mailto:hpatloll@uci.edu)**!
+- I’m a **Software Engineer** with a Master’s in **Computer Science & Engineering from UC Irvine**, focused on building **reliable, scalable, and production-ready systems** that operate at real-world scale.
+- I’ve worked across **cloud-native backend systems, distributed services, and intelligent automation**, with hands-on ownership of **Tier-1 services**, CI/CD pipelines, observability, and large-scale deployments. My experience spans designing backend platforms, improving system resilience, and shipping features that directly impact users and business outcomes.
+- I enjoy working at the intersection of **software engineering and applied machine learning**, where I can turn complex problems into practical, well-engineered solutions. I value clean design, measurable impact, and systems that are built to last.
+- I’m always excited to collaborate with teams that value **ownership, curiosity, and engineering excellence** — and I’m open to opportunities where I can continue to grow while building meaningful technology.
+- **[Connect on LinkedIn](https://www.linkedin.com/in/hasinireddy)** or **[send an email](mailto:hpatloll@uci.edu)**!
 
 ---
 
@@ -70,8 +68,33 @@
 
 ## 💼 Experience
 
+### **Amazon**
+**Software Development Engineer** (May 2025 – Present) · Austin, TX  
+- Architected parameterized observability and alerting for a Tier-1 service, standardizing CloudWatch alarms for latency and availability and enabling consistent Sev2/Sev3 incident response across regions and marketplaces.  
+- Improved system reliability and operational readiness score from 130 to 180 by documenting failure modes, introducing chaos and load testing, and automating CI/CD pipelines for safe, rapid large-scale releases.  
+- Led high-scale model rollouts spanning 2M+ ASINs; re-architected deployment workflows, reducing release time from 10 days to 2 days through automation, Dockerization, and ECR-based artifact management.  
+- Built an internal LLM-powered automation platform with DynamoDB-backed rationale management to accelerate UNSPSC classification, reducing manual validation time from 2 weeks to ~10 minutes and enabling faster multi-version model iteration.  
+- Owned the end-to-end production lifecycle including design reviews, deployment strategy, on-call rotation, incident response, postmortems, and long-term corrective actions to prevent recurring failures.
+
+---
+
+### **AT&T**
+**Software Engineer** (Jan 2023 – Sep 2023) · India  
+- Designed and implemented a credit decision engine evaluating fraud indicators and historical account data to determine null, partial, or full credit eligibility.  
+- Built a RESTful backend service handling thousands of requests per day, using Python and SQL for offline analysis and validation; achieved 91% decision accuracy against historical outcomes.  
+- Added structured logging, metrics, and alerts, improving service observability and reducing production issue diagnosis time.  
+- Developed customer-facing features using React and Next.js for AT&T’s e-commerce Product Details Page, supporting global production launches.
+
+---
+
+### **Resilient Cyber-Physical Systems Lab – UC Irvine**
+**Software Engineer (Research)** (Feb 2025 – Apr 2025) · Irvine, CA  
+- Designed an autonomous software pipeline for real-time decision-making, defining clear system interfaces, adding runtime health monitoring, and implementing fail-safe behaviors to ensure reliability under high-speed execution.  
+- Built a scalable experimentation and deployment framework, enabling rapid iteration via standardized configurations, automated testing, and runtime metrics while minimizing regression risk across feature updates.
+
+
 ### Genie AI
-**Software Engineer** (Dec 2024 – Present)  
+**Software Engineer** (Dec 2024 – Feb 2025)  · Remote, USA
 - Engineered scalable microservices using **Node.js** and **NestJS**, deployed on **AWS** with **Kubernetes**.  
 - Integrated **Prometheus** and **Grafana** for real-time monitoring, boosting system performance by 25%.  
 - Automated backend deployments using **GitLab CI/CD** pipelines, achieving zero-downtime releases.
@@ -79,18 +102,10 @@
 ---
 
 ### UC Irvine
-**Software Engineer R&D Intern** (Jun – Sep 2024)  
+**Software Engineer R&D Intern** (Jun – Sep 2024)  · Austin, TX
 - Built a real-time occupancy tracking system with **React**, **Next.js**, and **WebSocket APIs**, reducing library congestion by 30%.  
 - Implemented **OAuth 2.0** and **TLS/SSL** for secure user access.  
 - Developed predictive models in **Python** with 85% accuracy for future occupancy forecasting.
-
----
-
-### AT&T
-**Software Engineer** (Jan – Sep 2023)  
-- Developed/optimized **RESTful APIs** using **Java (Spring Boot)**, enhancing response times by 35%.  
-- Migrated monolithic services to **microservices** architecture, reducing downtime by 60%.  
-- Implemented **TDD** using **JUnit** and **Mockito**, achieving 90% code coverage.
 
 ---
 
